@@ -5,4 +5,4 @@ Location : Banglaore
 Address: Bangalore
 new number :10101010101
 Designation: SSE
-
+skills: Java,>net,DevOps
